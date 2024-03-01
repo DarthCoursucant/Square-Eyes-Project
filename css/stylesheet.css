@@ -1,0 +1,118 @@
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #045d5d; /* 2. Same as header and footer, does not worj in codepen*/
+  }
+
+  body {
+    /*min-height: 100%; /* Use if set on container, not body */
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header.page-header, footer.page-footer {
+    flex-grow: 0; /* 0. Only takes the place it needs */
+    flex-shrink: 0;
+    color: #fafafa;
+    background-color: #045d5d;
+    padding: 10px;
+  }
+
+  main.page-body {
+    flex-grow: 1; /* 1. Let main take all available space */
+    padding: 0 10px;
+    background-color: #C0A9BD;
+    color: black;
+  }
+
+  /*HEADER CODE*/
+.headerbutton {
+    float: left;
+  }
+
+  /* Header Settings */
+  .header {
+    overflow: hidden;
+    background-color: #ffffff;
+    margin: -8px;
+  }
+  
+  /* Links In Header Code */
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  
+  /* Background Of Links In Header While Hoover */
+  .header a:hover {
+    background-color: #C0A9BD;
+    color: #ffffff;
+  }
+  
+  /* Active Link In Header*/
+  .header a.active {
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 2px solid #000000;
+  }
+
+  /* 3 Buttons Potition Setting In Header */
+  .header-right {
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  /* Logo Position Setting */
+  .header-left {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+  }
+
+  /*Logo Size Setting */
+  .logo-container img {
+    width: 100px;
+    height: 50px;
+}
+
+.headerbutton {
+    margin: 5px;
+    cursor: pointer;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 2px solid #000000;
+    text-align: center;
+}
+
+.headerbutton a {
+    text-decoration: none;
+    color: black;
+  }
+
+.header a {
+font-size: 17px; 
+  line-height: 25px;
+}
+
+/*END OF HEADER CODE*/
+
+/*FOOTER CODE*/
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+/*END OF FOOTER CODE*/
