@@ -198,7 +198,7 @@ font-size: 17px;
   }
 
   .hero-image1, .hero-image2 {
-    width: 400px;
+    width: 500px;
     height: 300px;
   }
   
@@ -224,8 +224,8 @@ font-size: 17px;
     /*Hero Images Flex Main Setting*/
     .flex-parent > div {
         font-family: monospace;
-        width: 300px;
-        height: 200px;
+        width: 400px;
+        height: 250px;
         margin: 10px;
         text-align: center;
         line-height: 20px;
@@ -238,7 +238,7 @@ font-size: 17px;
       }
 
         /*Buttons In Hero Images Flex*/
-  .flex-parent a {
+  .hero-button {
     float: center;
     margin: 5px;
     font-size: 17px; 
@@ -246,15 +246,19 @@ font-size: 17px;
   background-color: #ffffff;
     border-radius: 15px;
     border: 2px solid #000000;
-    color: #000000;
-    text-decoration: none;
     text-align: center;
   }
 
-  .flex-parent a:hover {
+  .hero-button a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .hero-button a:hover {
     background-color: #000000;
     color: #ffffff;
     border: 2px solid white;
+    margin-inline: block;
   }
 
 /*All Heroe Images Common Code*/
