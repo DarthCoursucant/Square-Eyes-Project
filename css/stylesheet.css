@@ -144,3 +144,54 @@ font-size: 17px;
   .column { 
     flex-direction: column; 
   }
+
+  /*CONTENT CODE*/
+  .titlebutton a {
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 2px solid #000000;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    float: auto;
+  padding: 10px;
+  margin-top: 30px;
+  }
+
+  .becomebutton a {
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 2px solid #000000;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 85px;
+    height: 40px;
+    margin: 35px;
+    line-height: 20px;
+    font-size: 15px;
+    padding: 15px;
+  }
+
+  /*END OF CONTENT CODE*/
+
+  /*HERO IMAGES*/
+    /* Best Seller Hero Image  Setting */
+    .hero-image1 {
+        /* "linear-gradient" adds a darken background effect to the photo */
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://mpudata.sfo2.digitaloceanspaces.com/original/2X/6/6f7d37cd5f7ef08a2a17602e0aa6ad3a6880d747.jpeg");
+      }
+    
+      /*New Arrivals Hero Image Setting*/
+      .hero-image2 {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://free4kwallpapers.com/uploads/originals/2019/11/21/star-wars-wallpaper.jpg")
+      }
+
+/*END OF HERO IMAGES*/
+
+/*HERO IMAGES CODE*/
+  /*Common Code In Hero 1 + 2*/
+  .hero-image1, .hero-image2 {
+    padding-left: 20px;
+  }
