@@ -84,6 +84,10 @@ html, body {
     height: 50px;
 }
 
+.logo-container {
+    margin-top: 10px;
+  }
+
 .headerbutton {
     margin: 5px;
     cursor: pointer;
