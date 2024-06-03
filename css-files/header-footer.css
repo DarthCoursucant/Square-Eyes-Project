@@ -78,40 +78,9 @@ html, body {
 
 /* END HEADER CODE*/
 
-  /*
+/*FOOTER CODE*/
 
- .logo-container-header {
-    float: left;
-    padding-top: 10px;
-    padding-left: 10px;
-  }
-
-  .logo-container-header img {
-    width: 100px;
-    height: 55px;
-  }
-
-  #header-icons img {
-    height: 40px;
-    width: 40px;
-    padding-right: 15px;
-    padding-left: 10px;
-    padding-bottom: 20px;
-    padding-top: 10px;
-    float: right;
-  }
-
-  #header-right {
-    float: right;
-    padding-top: 10px;
-  }
-
-  #header-right a {
-    text-decoration: none;
-    color: #000000;
-    font-size: 20px;
-    margin-right: 20px;
-  }
+/*END FOOTER CODE*/
 
   #footer-info-box {
     color: #000000;
