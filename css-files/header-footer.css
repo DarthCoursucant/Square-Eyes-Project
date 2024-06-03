@@ -1,0 +1,142 @@
+/*STICKY FOOTER AND HEADER*/
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #6A76A4; /* 2. Same as header and footer, does not worj in codepen*/
+  }
+  
+  body {
+    /*min-height: 100%; /* Use if set on container, not body */
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header.page-header, footer.page-footer {
+    flex-grow: 0; /* 0. Only takes the place it needs */
+    flex-shrink: 0;
+    color: #fafafa;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+  main.page-body {
+    flex-grow: 1; /* 1. Let main take all available space */
+    padding: 0 10px;
+    background-color: #FFCCF9;
+    color: black;
+  }
+
+/* END STICKY FOOTER AND HEADER*/
+
+/*HEADER CODE*/
+
+.header-container {
+    display: flex;
+}
+
+#header-left {
+    float: left;
+    margin-left: 450px;
+    background-color: #FFCCF9;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#header-centre img {
+    width: 100px;
+    height: 55px;
+}
+
+#header-centre {
+    margin-left: ;
+}
+
+/* END HEADER CODE*/
+
+  /*
+
+ .logo-container-header {
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .logo-container-header img {
+    width: 100px;
+    height: 55px;
+  }
+
+  #header-icons img {
+    height: 40px;
+    width: 40px;
+    padding-right: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    float: right;
+  }
+
+  #header-right {
+    float: right;
+    padding-top: 10px;
+  }
+
+  #header-right a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    margin-right: 20px;
+  }
+
+  #footer-info-box {
+    color: #000000;
+    width: 400px;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  #footer-info-box h1 {
+    font-size: 25px;
+  }
+
+  #about-square-eyes-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #behind-the-scense-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #custumer-service-fotter h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #popular-now-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  .page-footer {
+    display: flex;
+  }
+
+  #popular-now-footer a, #behind-the-scense-footer a, #about-square-eyes-footer a, #custumer-service-fotter a {
+    display: flex;
+    font-size: 17px;
+    line-height: 25px;
+    text-decoration: none;
+    margin-left: 70px;
+    color: #DB5856;
+  }
+
+  #popular-now-footer, #behind-the-scense-footer, #about-square-eyes-footer, #custumer-service-fotter {
+    margin-left: 30px;
+    width: 300px;
+    text-align: center;
+  }
