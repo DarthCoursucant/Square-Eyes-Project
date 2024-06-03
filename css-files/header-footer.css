@@ -80,8 +80,6 @@ html, body {
 
 /*FOOTER CODE*/
 
-/*END FOOTER CODE*/
-
   #footer-info-box {
     color: #000000;
     width: 400px;
@@ -123,7 +121,7 @@ html, body {
     line-height: 25px;
     text-decoration: none;
     margin-left: 70px;
-    color: #DB5856;
+    color: #fa0804;
   }
 
   #popular-now-footer, #behind-the-scense-footer, #about-square-eyes-footer, #custumer-service-fotter {
@@ -131,3 +129,5 @@ html, body {
     width: 300px;
     text-align: center;
   }
+
+  /*END FOOTER CODE*/
