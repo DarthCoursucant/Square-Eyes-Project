@@ -1,61 +1,19 @@
 .wrap { flex-wrap: wrap; }
 
-.movies-container-home-flex, .series-container-home-flex, .both-categories-container {
+.flex-category-button {
     display: flex;
 }
 
-.movies-container-home-flex, .series-container-home-flex {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.series-container-home-flex {
-    margin-bottom: 20px;
-}
-
-.movies-container-home-flex {
-    border-radius: 15px;
-    background-color: #C4FAF8;
-    border: 2px solid #ffffff;
-    width: 680px;
-    margin-bottom: 20px;
-}
-
-.movies-container-home-flex h1, .series-container-home-flex h1 {
+.category-buttons-long {
+    background-color: #ffffff;
+    width: 300px;
     text-align: center;
-    margin-left: 80px;
-    margin-top: 20px;
-}
-
-.series-container-home-flex {
-    border-radius: 15px;
-    background-color: #BFFCC6;
-    border: 2px solid #ffffff;
-    width: 680px;
-}
-
-.category-buttons, .category-buttons-last {
-    background-color: #B28DFF;
     border: 2px solid #000000;
-    width: 200px;
-    height: 80px;
     border-radius: 20px;
-    text-align: center;
-    padding-top: 20px;
+    margin-left: 150px;
 }
 
-.category-buttons {
-    margin-left: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.category-buttons-last {
-    margin-left: 100px;
-    margin-bottom: 20px;
-}
-
-.category-buttons a, .category-buttons-last a{
+.category-buttons-long a {
     text-decoration: none;
-    color: #ffffff
+    color: #000000;
 }
