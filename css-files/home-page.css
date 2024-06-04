@@ -2,19 +2,34 @@
 
 /* BUTTONS */
 
+.movie-container-header {
+    text-align: center;
+    width: 1400px;
+}
+
+.movie-container-header h1 {
+    color: #000000;
+    font-size: 50px;
+}
+
 .flex-category-button {
     display: flex;
+    width: 1400px;
+    background-color: aquamarine;
+    margin-left: 30px;
+    border: 2px solid #000000;
+    border-radius: 20px;
 }
 
 .category-buttons-long {
     background-color: #ffffff;
     width: 300px;
-    height: 80px;
+    height: 70px;
     border: 2px solid #000000;
     border-radius: 20px;
-    margin-left: 150px;
+    margin-left: 100px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 .category-buttons-long a {
@@ -23,7 +38,7 @@
 }
 
 .category-buttons {
-    margin-left: 35px;
+    margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #ffffff;
