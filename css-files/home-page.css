@@ -9,10 +9,12 @@
 .category-buttons-long {
     background-color: #ffffff;
     width: 300px;
-    text-align: center;
+    height: 80px;
     border: 2px solid #000000;
     border-radius: 20px;
     margin-left: 150px;
+    text-align: center;
+    padding-top: 20px;
 }
 
 .category-buttons-long a {
