@@ -1,6 +1,6 @@
 .wrap { flex-wrap: wrap; }
 
-.classic-movies-container, .must-watch-movies-container {
+.classic-movies-container, .must-watch-movies-container, .book-adaptations-movies-container {
     display: flex;
     margin-bottom: 20px;
 }
