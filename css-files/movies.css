@@ -73,11 +73,11 @@
     border: 1px solid #000000;
 }
 
-.movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five {
+.movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen {
     margin-left: 35px;
 }
 
-.movie-poster-five {
+.movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen {
     margin-top: 20px;
 }
 
