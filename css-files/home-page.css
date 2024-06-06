@@ -21,11 +21,11 @@
 
 .category-buttons-long {
     background-color: #ffffff;
-    width: 300px;
+    width: 270px;
     height: 70px;
     border: 2px solid #000000;
     border-radius: 20px;
-    margin-left: 60px;
+    margin-left: 80px;
     text-align: center;
     padding-top: 30px;
 }
@@ -33,15 +33,16 @@
 .category-buttons-long a {
     text-decoration: none;
     color: #000000;
+    font-size: 25px;
 }
 
 .category-buttons {
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: 50px;
     margin-bottom: 20px;
     background-color: #ffffff;
     border: 2px solid #000000;
-    width: 190px;
+    width: 160px;
     height: 60px;
     border-radius: 20px;
     text-align: center;
@@ -51,7 +52,7 @@
 .category-buttons a {
     text-decoration: none;
     color: #000000;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 /* END BUTTONS */
