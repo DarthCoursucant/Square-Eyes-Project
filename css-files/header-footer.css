@@ -59,6 +59,12 @@ html, body {
   margin-bottom: 30px;
 }
 
+#contact-icon-header {
+  margin-top: 55px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
 
 /* END HEADER CODE*/
 
@@ -165,7 +171,7 @@ html, body {
       display: flex;
     }
 
-    .location-header img {
+    .location-header img, #contact-icon-header img {
       height: 60px;
       width: 60px;
     }
