@@ -81,28 +81,22 @@
     margin-top: 20px;
 }
 
-#pagetitle {
-    background-color: #C4FAF8;
-    border-radius: 15px;
-    border: 2px solid #000000;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    width: 680px;
+#page-headline {
     text-align: center;
-    margin-left: 365px;
-}
-
-.button-title {
-    background-color: #DB5856;
-    border: 2px solid #000000;
-    margin-bottom: 20px;
-    width: 200px;
-    margin-left: 250px;
+    margin-bottom: 50px;
+    background-color: #9aabef;
     border-radius: 15px;
+    width: 700px;
+    border: 2px solid #000000;
+    margin-top: 30px;
+    margin-left: 400px;
 }
 
-.button-title a {
-    text-decoration: none;
-    color: #ffffff;
-    margin-inline: auto;
+#page-headline h1 {
+    font-size: 50px;
+}
+
+#page-headline p {
+    font-size: 30px;
+    margin-top: -20px;
 }
