@@ -42,32 +42,13 @@ html, body {
     margin-left: 400px;
 }
 
-.header-button {
-    background-color: #FFCCF9;
-    width: 150px;
-    border-radius: 20px;
-    text-align: center;
-    padding: 15px;
-    border: 2px solid #000000;
-    height: 50px;
-    margin-top: 40px;
-    margin-bottom: 30px;
-}
-
-.header-button a {
-    text-decoration: none;
-    color: #000000;
-    text-align: center;
-    font-size: 20px;
-}
-
 #header-centre img {
     width: 150px;
     height: 95px;
 }
 
 #header-centre {
-    margin-left: 80px;
+    margin-left: 630px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -132,3 +113,52 @@ html, body {
   }
 
   /*END FOOTER CODE*/
+
+    /*Menu Code */
+    #mymenu {
+      width: 0;
+    }
+    
+    .menubar {
+      height: 100%;
+      width: 100%;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+      text-align:center;
+    }
+    
+    .menubar a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 25px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+    
+    .menubar a:hover {
+      color: #f1f1f1;
+    }
+    
+    .menubar {
+      font-size: 20px;
+      line-height: 22px;
+    }
+    
+    .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+  
+    .flex-menu {
+      display: flex;
+    }
