@@ -48,13 +48,15 @@ html, body {
 }
 
 #header-centre {
-    margin-left: 630px;
+    margin-left: 50px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-#header-right {
-    margin-left: 80px;
+.location-header {
+  margin-left: 600px;
+  margin-top: 50px;
+  margin-bottom: 30px;
 }
 
 
