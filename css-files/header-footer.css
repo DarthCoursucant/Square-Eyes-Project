@@ -54,7 +54,7 @@ html, body {
 }
 
 .location-header {
-  margin-left: 570px;
+  margin-left: 430px;
   margin-top: 55px;
   margin-bottom: 30px;
 }
@@ -62,6 +62,11 @@ html, body {
 #contact-icon-header {
   margin-top: 50px;
   margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+#sale-icon-header, #map-icon-header {
+  margin-top: 55px;
   margin-left: 50px;
 }
 
@@ -171,7 +176,7 @@ html, body {
       display: flex;
     }
 
-    .location-header img, #contact-icon-header img {
+    .location-header img, #contact-icon-header img, #sale-icon-header img, #map-icon-header img {
       height: 60px;
       width: 60px;
     }
