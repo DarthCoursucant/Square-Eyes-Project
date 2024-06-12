@@ -31,12 +31,11 @@
 }
 
 #poster-info-text h1 {
-    width: 180px;
-  text-align: center;
-  font-size: 25px;
+    width: 205px;
+    text-align: center;
+  font-size: 23px;
   color: #000000;
   margin-top: 5px;
-  margin-left: 10px;
 }
 
 #poster-info-text p {
