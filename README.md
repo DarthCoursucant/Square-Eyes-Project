@@ -50,3 +50,4 @@ Updated
 - Noir
 - Romance
 - Sci-Fi
+- Trailer
