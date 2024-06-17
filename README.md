@@ -52,3 +52,4 @@ Updated
 - Sci-Fi
 - Trailer
 - True Crime
+- Wstern
