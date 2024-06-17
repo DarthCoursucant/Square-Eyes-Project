@@ -41,3 +41,4 @@ Updated
 - Comedy
 - Documentary
 - Drama
+- Fantasy
