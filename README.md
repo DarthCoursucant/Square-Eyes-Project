@@ -35,3 +35,4 @@ Updated
 - Adventure
 - Animated
 - Biography
+- Book Adaptations
