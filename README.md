@@ -46,3 +46,5 @@ Updated
 - Horror
 - Indie
 - Must Watch
+- Mystery
+- Noir
