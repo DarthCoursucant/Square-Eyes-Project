@@ -33,3 +33,4 @@ Done
 Updated
 - Action
 - Adventure
+- Animated
