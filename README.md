@@ -24,3 +24,5 @@ Done
 -Mystery
 -Noir
 -Roamnce
+-sci fi
+- Thriller
