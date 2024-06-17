@@ -38,3 +38,4 @@ Updated
 - Book Adaptations
 - Children
 - Classic Movies
+- Comedy
