@@ -36,3 +36,5 @@ Updated
 - Animated
 - Biography
 - Book Adaptations
+- Children
+- Classic Movies
