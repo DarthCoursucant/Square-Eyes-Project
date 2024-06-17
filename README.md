@@ -44,3 +44,5 @@ Updated
 - Fantasy
 - History
 - Horror
+- Indie
+- Must Watch
