@@ -51,3 +51,4 @@ Updated
 - Romance
 - Sci-Fi
 - Trailer
+- True Crime
