@@ -48,3 +48,5 @@ Updated
 - Must Watch
 - Mystery
 - Noir
+- Romance
+- Sci-Fi
