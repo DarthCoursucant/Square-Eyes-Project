@@ -27,3 +27,4 @@ Done
 - sci fi
 - Thriller
 - true crime
+- Western
