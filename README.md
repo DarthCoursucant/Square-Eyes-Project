@@ -42,3 +42,5 @@ Updated
 - Documentary
 - Drama
 - Fantasy
+- History
+- Horror
