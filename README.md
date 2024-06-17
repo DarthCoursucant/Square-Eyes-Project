@@ -40,3 +40,4 @@ Updated
 - Classic Movies
 - Comedy
 - Documentary
+- Drama
