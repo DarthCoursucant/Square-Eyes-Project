@@ -28,6 +28,7 @@ Done
 - Thriller
 - true crime
 - Western
+- WW 2
 
 
 Updated
@@ -53,3 +54,4 @@ Updated
 - Trailer
 - True Crime
 - Wstern
+- WW 2
