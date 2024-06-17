@@ -34,3 +34,4 @@ Updated
 - Action
 - Adventure
 - Animated
+- Biography
