@@ -39,3 +39,4 @@ Updated
 - Children
 - Classic Movies
 - Comedy
+- Documentary
