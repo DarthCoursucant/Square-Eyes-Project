@@ -1,12 +1,12 @@
-.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .become-button:hover, .hero-button:hover {
+.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .become-button:hover, .hero-button:hover, #poster-thriller-button:hover {
     background-color: #000000;
     color: #ffffff;
 }
 
-.become-button a:hover, .category-buttons-long a:hover, .category-buttons a:hover, .category-last-buttons a:hover, .hero-button a:hover {
+.become-button a:hover, .category-buttons-long a:hover, .category-buttons a:hover, .category-last-buttons a:hover, .hero-button a:hover, #poster-thriller-button a:hover {
     color: #ffffff;
 }
 
-.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .hero-button:hover {
+.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .hero-button:hover, #poster-thriller-button:hover {
     border: 2px solid #d30101;
 }
