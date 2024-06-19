@@ -10,3 +10,8 @@
 .category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .hero-button:hover, #poster-thriller-button:hover {
     border: 2px solid #d30101;
 }
+
+#poster-thriller-button:hover {
+    height: 30px;
+    padding-top: 10px;
+}
