@@ -11,4 +11,7 @@ Square Eyes is a digital entertainment company that specializes in selling. With
 - (A SMALL PART) JavaScript
 
 MENU UPDATED
--
+- INDEX
+- ACTION
+- ADVENTURE
+- ANIMATED
