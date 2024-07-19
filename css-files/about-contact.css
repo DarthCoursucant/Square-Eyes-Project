@@ -1,0 +1,93 @@
+/* ABOUT PAGE CODE*/
+.hero-image-about-page-one {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1585647347384-2593bc35786b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-about-page-two {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1485095329183-d0797cdc5676?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-about-page-three {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1521967906867-14ec9d64bee8?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-about-page-four {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1568876694728-451bbf694b83?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-about-page-five {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1600660792241-240f01455c6f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-one {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-two {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1574267432553-4b4628081c31?q=80&w=3131&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-three {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1440404653325-ab127d49abc1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-four {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1608170825938-a8ea0305d46c?q=80&w=3125&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-five {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1627133805103-ce2d34ccdd37?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-contact-page-six {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1640127249305-793865c2efe1?q=80&w=3203&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five, .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-five, .hero-image-contact-page-six {
+    border-radius: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five, .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-five, .hero-image-contact-page-six {
+    border: 2px solid #000000;
+    width: 1300px;
+    margin-left: 100px;
+}
+
+.hero-image-about-page-one, .hero-image-about-page-four, .hero-image-about-page-five, .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-contact-page-five, .hero-image-contact-page-six {
+    margin-top: 50px;
+}
+
+.hero-image-about-page-five, .hero-image-contact-page-six {
+    margin-bottom: 50px;
+}
+
+.hero-text-about-page-one, .hero-image-text-contact {
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+
+.hero-text-about-page-one h1, .hero-image-text-contact h1 {
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.hero-text-about-page-one p, .hero-image-text-contact p {
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* END ABOUT PAGE CODE*/
+
+.hero-image-contact-page-three a {
+    color: red;
+}
