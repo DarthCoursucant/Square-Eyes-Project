@@ -6,12 +6,14 @@
 .become-a-member-form, .checkoutform {
     background-color: #c1eabc;
     width: 750px;
+    height: 500px;
     border-radius: 1em;
     box-shadow: 0px 0px 10px 10px #626592;
   }
 
 .become-a-member-form {
     margin: 50px auto;
+    font-size: 25px;
   }
 
 .checkoutform {
@@ -26,34 +28,36 @@ ul {
 label {
     display: inline-block;
     width: 200px;
+    height: 50px;
   }
   
 label::after {
     content: ":";
   }
 
-input, textarea {
-  width: 400px;
+input {
+  width: 350px;
   box-sizing: border-box;
   outline: none;
   background-color: #ffffff;
-}
-
-textarea {
-  vertical-align: middle;
-  height: 20px;
-  resize: vertical;
-  resize: none;
+  height: 30px;
 }
 
 .formbutton {
-  background-color: #2E7702;
-  box-shadow: 5px 5px 10px 5px #50CE03;
-  float: auto;
-  cursor: pointer;
-  border-radius: 15px;
-  padding-bottom: 10px;
-  margin: 30px 0px 0px 250px;
+    background-color: #094CDB;
+    box-shadow: 5px 5px 10px 5px #023299;
+    float: auto;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    margin-left: 150px;
+}
+
+.formbutton a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 label {
@@ -63,4 +67,9 @@ label {
 h1 {
     font-size: 35px;
     text-align: center;
+    padding-top: 20px;
+}
+
+#first-name {
+    margin-top: 30px;
 }
