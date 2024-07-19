@@ -1,3 +1,5 @@
+.wrap { flex-wrap: wrap; }
+
 .text {
     margin-left: -20px;
     padding-top: 10%;
