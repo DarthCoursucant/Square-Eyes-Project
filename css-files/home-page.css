@@ -181,3 +181,7 @@
     text-decoration: none;
     color: #000000;
 }
+
+#movie-action, #movie-fantasy, #movie-sci-fi {
+    margin-left: 60px;
+}
