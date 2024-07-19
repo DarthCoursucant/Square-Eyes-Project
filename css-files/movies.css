@@ -1,0 +1,118 @@
+.wrap { flex-wrap: wrap; }
+
+.classic-movies-container, .must-watch-movies-container, .book-adaptations-movies-container, .action-movies-container, .adventure-movies-container, .animated-movies-container, .biography-movies-container, .kids-movies-container, .comedy-movies-container, .documnetary-movies-container, .drama-movies-container, .fantasy-movies-container, .historical-fiction-movies-container, .history-movies-container, .horor-movies-container, .indie-movies-container, .musical-movies-container, .mystery-movies-container, .noir-movies-container, .rom-coms-movies-container, .romance-movies-container, .sci-fi-movies-container, .thriller-movies-container, .true-crime-movies-container, .western-movies-container, .young-adult-movies-container, .top-sellers-movies-container, .new-movies-arrivals-container, .ww-movies-container, .science-movies-container, .todays-deals-movies-container, .on-sale-movies-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#poster-photo {
+    float: left;
+    height: 200px;
+    width: 150px;
+}
+
+#poster-photo img {
+    height: 250px;
+    width: 160px;
+    border-radius: 7px 0 0 7px;
+}
+
+.poster-info {
+    float: left;
+  height: 250px;
+  width: 200px;
+  border-radius: 0 7px 10px 7px;
+  background-color: #BFFCC6;
+}
+
+#poster-info-text {
+    height: 220px;
+    width: 180px;
+}
+
+#poster-info-text h1 {
+    width: 205px;
+    text-align: center;
+  font-size: 23px;
+  color: #000000;
+  margin-top: 5px;
+}
+
+#poster-info-text p {
+    height: 110px;
+    text-align: center;
+  color: #000000;
+  font-size: 15px;
+  font-weight: lighter;
+  padding-left: 5px;
+}
+
+#poster-price {
+    float: right;
+    margin-top: -15px;
+    margin-right: 70px;
+    color: #000000;
+}
+
+#poster-price p {
+    font-size: 25px;
+}
+
+#poster-button a {
+    float: right;
+    background-color: #DB5856;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 20px;
+    margin-top: -20px;
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    border: 1px solid #000000;
+}
+
+#poster-thriller-button {
+    width: 150px;
+    font-size: 20px;
+    background-color: #9aabef;
+    border: 1px solid #000000;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-top: -80px;
+}
+
+#poster-thriller-button a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-top: 20px;
+}
+
+#page-headline {
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: #CCCCFF;
+    border-radius: 15px;
+    width: 700px;
+    border: 2px solid #000000;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+#page-headline h1 {
+    font-size: 50px;
+}
+
+#page-headline p {
+    font-size: 30px;
+    margin-top: -20px;
+}
