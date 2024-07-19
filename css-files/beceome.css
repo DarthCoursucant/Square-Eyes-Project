@@ -79,3 +79,56 @@ h1 {
 .become-boxes-flex {
     display: flex;
 }
+
+.box-one {
+    background-color: #966fd6;
+}
+
+.box-two {
+    background-color: #fafabe;
+}
+
+.box-three {
+    background-color: #c7caff;
+}
+
+.box-one, .box-two, .box-three {
+    width: 450px;
+    border-radius: 20px;
+    border: 2px solid #000000;
+}
+
+.box-one, .box-two, .box-three {
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.box-two, .box-three {
+    text-align: center;
+}
+
+.box-one, .box-three {
+    color: #ffffff;
+}
+
+.box-one, .box-two, .box-three {
+    font-size: 20px;
+}
+
+.box-one li {
+    padding-left: 30px;
+}
+
+.box-three p, .box-three a {
+    padding: 0px 20px 0px 20px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.box-one a, .box-two a, .box-three a {
+    color: red;
+    text-decoration: none;
+}
