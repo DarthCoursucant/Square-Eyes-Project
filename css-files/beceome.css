@@ -73,3 +73,7 @@ h1 {
 #first-name {
     margin-top: 30px;
 }
+
+.become-boxes-flex {
+    display: flex;
+}
