@@ -1,0 +1,182 @@
+/*STICKY FOOTER AND HEADER*/
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #6A76A4; /* 2. Same as header and footer, does not worj in codepen*/
+  }
+  
+  body {
+    /*min-height: 100%; /* Use if set on container, not body */
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header.page-header, footer.page-footer {
+    flex-grow: 0; /* 0. Only takes the place it needs */
+    flex-shrink: 0;
+    color: #fafafa;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+  main.page-body {
+    flex-grow: 1; /* 1. Let main take all available space */
+    padding: 0 10px;
+    background-color: #FFCCF9;
+    color: black;
+  }
+
+/* END STICKY FOOTER AND HEADER*/
+
+/*HEADER CODE*/
+
+.header-container {
+    display: flex;
+}
+
+#header-left {
+    float: left;
+    margin-left: 400px;
+}
+
+#header-centre img {
+    width: 150px;
+    height: 95px;
+}
+
+#header-centre {
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.location-header {
+  margin-left: 430px;
+  margin-top: 55px;
+  margin-bottom: 30px;
+}
+
+#contact-icon-header {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+#sale-icon-header, #map-icon-header {
+  margin-top: 55px;
+  margin-left: 50px;
+}
+
+
+/* END HEADER CODE*/
+
+/*FOOTER CODE*/
+
+  #footer-info-box {
+    color: #000000;
+    width: 400px;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  #footer-info-box h1 {
+    font-size: 25px;
+  }
+
+  #about-square-eyes-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #behind-the-scense-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #custumer-service-fotter h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  #popular-now-footer h1 {
+    font-size: 25px;
+    color: #000000;
+  }
+
+  .page-footer {
+    display: flex;
+  }
+
+  #popular-now-footer a, #behind-the-scense-footer a, #about-square-eyes-footer a, #custumer-service-fotter a {
+    display: flex;
+    font-size: 17px;
+    line-height: 25px;
+    text-decoration: none;
+    margin-left: 70px;
+    color: #fa0804;
+  }
+
+  #popular-now-footer, #behind-the-scense-footer, #about-square-eyes-footer, #custumer-service-fotter {
+    margin-left: 30px;
+    width: 300px;
+    text-align: center;
+  }
+
+  /*END FOOTER CODE*/
+
+    /*Menu Code */
+    #mymenu {
+      width: 0;
+    }
+    
+    .menubar {
+      height: 100%;
+      width: 100%;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+      text-align:center;
+    }
+    
+    .menubar a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 25px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+    
+    .menubar a:hover {
+      color: #f1f1f1;
+    }
+    
+    .menubar {
+      font-size: 20px;
+      line-height: 22px;
+    }
+    
+    .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 40px;
+      margin-left: 50px;
+    }
+  
+    .flex-menu {
+      display: flex;
+    }
+
+    .location-header img, #contact-icon-header img, #sale-icon-header img, #map-icon-header img {
+      height: 60px;
+      width: 60px;
+    }
