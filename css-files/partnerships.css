@@ -15,3 +15,7 @@
 .larger-device {
     display: none;
 }
+
+.partnerships-overview {
+    display: flex;
+}
