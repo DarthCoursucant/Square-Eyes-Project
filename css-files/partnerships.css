@@ -20,33 +20,37 @@
     display: flex;
 }
 
-.disney-option, .walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .paramount-option, .universal-option, .disneypark-option, .hulu-option, .disney-plus-option, .seatchlight-option, .centruy-studio-option, .pixar-option, .amblin-option, .sony-pictures-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .dreamworks-animation-option, .lionsgate-option, .illumination-option {
+.disney-option, .walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .paramount-option, .universal-option, .disneypark-option, .hulu-option, .disney-plus-option, .seatchlight-option, .centruy-studio-option, .pixar-option, .amblin-option, .sony-pictures-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .dreamworks-animation-option, .lionsgate-option, .illumination-option, .apple-tv-option, .prime-video-option, .hbo-option {
     text-align: center;
     border: 2px solid #ffffff;
     border-radius: 20px;
     height: 40px;
 }
 
-.disney-option, .netflix-option, .warner-bros-option, .universal-option, .hulu-option, .seatchlight-option, .centruy-studio-option, .amblin-option, .disney-cruise-option, .lucas-films-option, .illumination-option {
+.disney-option, .netflix-option, .warner-bros-option, .universal-option, .hulu-option, .seatchlight-option, .centruy-studio-option, .amblin-option, .disney-cruise-option, .lucas-films-option, .illumination-option, .prime-video-option {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
 }
 
-.walt-disney-option, .disney-channel-option, .paramount-option, .disneypark-option, .disney-plus-option, .pixar-option, .sony-pictures-option, .disney-exerience-option, .lionsgate-option, .dreamworks-animation-option {
+.walt-disney-option, .disney-channel-option, .paramount-option, .disneypark-option, .disney-plus-option, .pixar-option, .sony-pictures-option, .disney-exerience-option, .lionsgate-option, .dreamworks-animation-option, .apple-tv-option, .hbo-option {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
 }
 
-.disney-option a, .walt-disney-option a, .netflix-option a, .disney-channel-option a, .warner-bros-option a, .paramount-option a, .universal-option a, .disneypark-option a, .hulu-option a, .disney-plus-option a, .seatchlight-option a, .centruy-studio-option a, .pixar-option a, .amblin-option a, .sony-pictures-option a, .disney-cruise-option a, .disney-exerience-option a, .lucas-films-option a, .dreamworks-animation-option a, .lionsgate-option a, .illumination-option a {
+.disney-option a, .walt-disney-option a, .netflix-option a, .disney-channel-option a, .warner-bros-option a, .paramount-option a, .universal-option a, .disneypark-option a, .hulu-option a, .disney-plus-option a, .seatchlight-option a, .centruy-studio-option a, .pixar-option a, .amblin-option a, .sony-pictures-option a, .disney-cruise-option a, .disney-exerience-option a, .lucas-films-option a, .dreamworks-animation-option a, .lionsgate-option a, .illumination-option a, .apple-tv-option a, .prime-video-option a, .hbo-option a {
     text-decoration: none;
     color: #ffffff;
 }
 
-.disney-option, .netflix-option, .hulu-option, .pixar-option {
+.disney-option, .netflix-option, .hulu-option, .pixar-option, .hbo-option {
     width: 150px;
 }
 
-.disney-plus-option, .lucas-films-option, .lionsgate-option {
+.apple-tv-option {
+    width: 170px;
+}
+
+.disney-plus-option, .lucas-films-option, .lionsgate-option, .prime-video-option {
     width: 200px;
 }
 
@@ -82,7 +86,7 @@
     width: 420px;
 }
 
-.walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .universal-option, .disneypark-option, .disney-plus-option, .seatchlight-option, .pixar-option, .amblin-option, .hulu-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .lionsgate-option, .illumination-option {
+.walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .universal-option, .disneypark-option, .disney-plus-option, .seatchlight-option, .pixar-option, .amblin-option, .hulu-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .lionsgate-option, .illumination-option, .apple-tv-option, .prime-video-option, .hbo-option {
     margin-left: 20px;
 }
 
@@ -103,13 +107,13 @@
 }
 
 .dreamworks-animation-option {
-    margin-left: 20px;
+    margin-left: 90px;
 }
 
-.paramount-option, .universal-option, .disneypark-option, .hulu-option, .disney-plus-option, .seatchlight-option, .centruy-studio-option, .pixar-option, .amblin-option, .sony-pictures-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .lionsgate-option, .disney-option, .walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .dreamworks-animation-option, .illumination-option {
+.paramount-option, .universal-option, .disneypark-option, .hulu-option, .disney-plus-option, .seatchlight-option, .centruy-studio-option, .pixar-option, .amblin-option, .sony-pictures-option, .disney-cruise-option, .disney-exerience-option, .lucas-films-option, .lionsgate-option, .disney-option, .walt-disney-option, .netflix-option, .disney-channel-option, .warner-bros-option, .dreamworks-animation-option, .illumination-option, .apple-tv-option, .prime-video-option, .hbo-option {
     margin-top: 20px;
 }
 
-.dreamworks-animation-option, .illumination-option {
+.dreamworks-animation-option, .illumination-option, .apple-tv-option, .prime-video-option, .hbo-option {
     margin-bottom: 50px;
 }
