@@ -77,7 +77,7 @@
 /* END BUTTONS */
 
 /*HERO CODE*/
-.flex-hero-container, .flex-category-button-one {
+.flex-hero-container, .flex-category-button-one, .flex-category-button-two {
     display: flex;
 }
 
