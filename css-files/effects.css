@@ -43,14 +43,32 @@
     color: #fafabe;
 }
 
-.box-two a:hover, .box-three a:hover {
+.box-two a:hover, .box-three a:hover, #box-container-one a:hover, #box-container-two a:hover, #box-container-three a:hover{
     color: #094CDB;
 }
 
-.hero-image-carrer:hover {
+.hero-image-carrer:hover, .hero-image-investors:hover, #box-container-one:hover, #box-container-two:hover, #box-container-three:hover, #page-headline:hover, #poster-thriller-button:hover {
     box-shadow: 5px 5px 10px 5px #094CDB;
 }
 
 .active, .collapsible:hover {
     background-color: #023299;
   }
+
+#poster-button:hover {
+    box-shadow: 5px 5px 5px 5px #BB3331;
+  }
+
+#poster-price:hover p {
+    color: #818181;
+  }
+
+#poster-info-text h1:hover, #poster-info-text p:hover {
+    color: #094CDB;
+}
+
+.movie-poster-one:hover {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 5px #ffffff;
+}
