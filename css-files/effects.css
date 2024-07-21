@@ -78,3 +78,8 @@
 #page-headline:hover, .partnerships-info:hover {
     box-shadow: 5px 5px 10px 10px #ffffff;
 }
+
+.sony-pictures-option:hover, .disney-cruise-option:hover, .disney-exerience-option:hover, .lucas-films-option:hover, .lionsgate-option:hover {
+    background-color: #E4AAFF;
+    box-shadow: 5px 5px 10px 10px #B583CD;
+}
