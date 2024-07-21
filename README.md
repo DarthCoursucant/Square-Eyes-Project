@@ -11,3 +11,10 @@ HOVER EFFECT DONE:
 - Must Watch
 - Mystery
 - Noir
+- Romance
+- Sci Fi
+- Thriller
+- True Crime
+- Western
+- WW 2
+- Young Adult
