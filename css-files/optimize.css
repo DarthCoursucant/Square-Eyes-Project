@@ -1,4 +1,21 @@
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
+    .hero-image-four {
+      width: 1100px;
+      margin-left: 50px;
+      height: 200px;
+    }
     
-}
+    .hero-text-four h1 {
+      font-size: 30px;
+    }
+    
+    .hero-text-four p {
+      font-size: 20px;
+    }
+    
+    .become-button {
+      margin-left: 360px;
+    }
+    
+  }
