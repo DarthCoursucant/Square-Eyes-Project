@@ -88,6 +88,6 @@
 
 /* END ABOUT PAGE CODE*/
 
-.hero-image-contact-page-three a {
+.hero-image-contact-page-three a, .hero-image-contact-page-four a, .hero-image-contact-page-six a {
     color: red;
 }
