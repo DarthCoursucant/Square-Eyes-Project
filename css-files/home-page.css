@@ -155,17 +155,18 @@
 }
 
 .hero-button {
-    background-color: #ffffff;
     width: 200px;
     border-radius: 20px;
-    border: 2px solid #d30101;
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    border: 2px solid #ffffff;
     margin-left: 200px;
 }
 
 .hero-button a {
     font-size: 30px;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -184,4 +185,11 @@
 
 #movie-action, #movie-fantasy, #movie-sci-fi {
     margin-left: 60px;
+}
+
+/* HOVER EFFECT */
+.become-button:hover {
+    background-color: #2E7702;
+    box-shadow: 5px 5px 10px 5px #4FC009;
+    border: 2px solid #ffffff;
 }
