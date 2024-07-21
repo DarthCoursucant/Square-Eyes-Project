@@ -35,11 +35,11 @@
     font-size: 30px;
 }
 
-.hero-image-one:hover, .hero-image-two:hover, .hero-image-three:hover, .hero-image-four:hover, .hero-image-about-page-one:hover, .hero-image-about-page-two:hover, .hero-image-about-page-three:hover, .hero-image-about-page-four:hover, .hero-image-about-page-five:hover, .box-one:hover, .box-two:hover, .box-three:hover {
+.hero-image-one:hover, .hero-image-two:hover, .hero-image-three:hover, .hero-image-four:hover, .hero-image-about-page-one:hover, .hero-image-about-page-two:hover, .hero-image-about-page-three:hover, .hero-image-about-page-four:hover, .hero-image-about-page-five:hover, .box-one:hover, .box-two:hover, .box-three:hover, .hero-image-contact-page:hover, .hero-image-contact-page-one:hover, .hero-image-contact-page-two:hover, .hero-image-contact-page-five:hover, .hero-image-contact-page-four:hover, .hero-image-contact-page-six:hover {
     box-shadow: 0px 0px 10px 10px #818181;
 }
 
-.hero-text-about-page-one h1:hover, .hero-text-about-page-one p:hover {
+.hero-text-about-page-one h1:hover, .hero-text-about-page-one p:hover, .hero-image-text-contact a:hover {
     color: #fafabe;
 }
 
