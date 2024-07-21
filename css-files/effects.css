@@ -67,10 +67,10 @@
     color: #094CDB;
 }
 
-.movie-poster-one:hover, .movie-poster-two:hover, .movie-poster-three:hover, .movie-poster-four:hover, .movie-poster-five:hover {
+.movie-poster-one:hover, .movie-poster-two:hover, .movie-poster-three:hover, .movie-poster-four:hover, .movie-poster-five:hover, .movie-poster-six:hover, .movie-poster-seven:hover, .movie-poster-eight:hover, .movie-poster-nine:hover, .movie-poster-teen:hover, .movie-poster-eleven:hover, .movie-poster-twelve:hover, .movie-poster-thirteen:hover, .movie-poster-fourteen:hover, .movie-poster-fifteen:hover, .movie-poster-sixteen:hover {
     border: 2px solid #ffffff;
     border-radius: 10px;
-    box-shadow: 2px 2px 10px 5px #ffffff;
+    box-shadow: 2px 2px 10px 5px #FCFF80;
     margin-left: 20px;
     margin-right: 20px;
 }
