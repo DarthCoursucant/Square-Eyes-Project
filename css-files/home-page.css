@@ -193,3 +193,18 @@
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
 }
+
+.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover {
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    border: 2px solid #ffffff;
+}
+
+.category-buttons-long a:hover, .category-buttons a:hover, .category-last-buttons a:hover {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.hero-image-one:hover, .hero-image-two:hover, .hero-image-three:hover, .hero-image-four:hover {
+    box-shadow: 0px 0px 10px 10px #818181;
+}
