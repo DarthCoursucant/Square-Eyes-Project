@@ -14,7 +14,7 @@
     color: #6A76A4;
   }
 
-.become-button:hover, .hero-button:hover, .formbutton:hover, #carrer-button:hover {
+.become-button:hover, .hero-button:hover, .formbutton:hover, #carrer-button:hover, .trade-your-dvds-info:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
 }
