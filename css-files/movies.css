@@ -33,7 +33,7 @@
 #poster-info-text h1 {
     width: 205px;
     text-align: center;
-  font-size: 23px;
+  font-size: 20px;
   color: #000000;
   margin-top: 5px;
 }
@@ -103,7 +103,7 @@
 #page-headline {
     text-align: center;
     margin-bottom: 50px;
-    background-color: #CCCCFF;
+    background-color: #8BFFF8;
     border-radius: 15px;
     width: 700px;
     border: 2px solid #000000;
