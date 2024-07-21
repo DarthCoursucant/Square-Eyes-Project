@@ -189,20 +189,3 @@ html, body {
       height: 60px;
       width: 60px;
     }
-
-    /* HOVER EFFECTS */
-    #header-centre img:hover {
-      box-shadow: 5px 5px 10px 5px #818181;
-      width: 170px;
-      height: 105px;
-    }
-
-    .location-header img:hover, #contact-icon-header img:hover, #sale-icon-header img:hover, #map-icon-header img:hover, .menubar img:hover{
-      height: 70px;
-      width: 70px;
-      box-shadow: 5px 5px 10px 5px #818181;
-    }
-
-    #popular-now-footer a:hover, #behind-the-scense-footer a:hover, #about-square-eyes-footer a:hover, #custumer-service-fotter a:hover {
-      color: #6A76A4;
-    }
