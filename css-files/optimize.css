@@ -18,4 +18,15 @@
       margin-left: 360px;
     }
     
+    .category-buttons-long {
+        width: 200px;
+      }
+      
+      .category-buttons {
+        width: 150px;
+      }
+      
+      #movie-action, #movie-drama, #movie-noir {
+        margin-left: 15px;
+      }
   }
