@@ -172,15 +172,16 @@
 
 .become-button {
     width: 400px;
-    background-color: #ffffff;
     border-radius: 20px;
-    border: 2px solid #d30101;
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    border: 2px solid #ffffff;
     margin-left: 500px;
 }
 
 .become-button a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 #movie-action, #movie-fantasy, #movie-sci-fi {
@@ -188,8 +189,7 @@
 }
 
 /* HOVER EFFECT */
-.become-button:hover {
+.become-button:hover, .hero-button:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
-    border: 2px solid #ffffff;
 }
