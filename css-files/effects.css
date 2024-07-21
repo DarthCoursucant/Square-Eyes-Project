@@ -14,7 +14,7 @@
     color: #6A76A4;
   }
 
-.become-button:hover, .hero-button:hover, .formbutton:hover {
+.become-button:hover, .hero-button:hover, .formbutton:hover, #carrer-button:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
 }
@@ -45,4 +45,8 @@
 
 .box-two a:hover, .box-three a:hover {
     color: #094CDB;
+}
+
+.hero-image-carrer:hover {
+    box-shadow: 5px 5px 10px 5px #094CDB;
 }
