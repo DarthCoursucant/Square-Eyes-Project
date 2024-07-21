@@ -202,3 +202,7 @@ html, body {
       width: 70px;
       box-shadow: 5px 5px 10px 5px #818181;
     }
+
+    #popular-now-footer a:hover, #behind-the-scense-footer a:hover, #about-square-eyes-footer a:hover, #custumer-service-fotter a:hover {
+      color: #6A76A4;
+    }
