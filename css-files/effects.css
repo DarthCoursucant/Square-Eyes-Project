@@ -14,15 +14,20 @@
     color: #6A76A4;
   }
 
-.become-button:hover, .hero-button:hover {
+.become-button:hover, .hero-button:hover, .formbutton:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
 }
 
-.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover {
+.category-buttons-long:hover, .category-buttons:hover, .category-last-buttons:hover, .become-a-member-form:hover {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
     border: 2px solid #ffffff;
+}
+
+.become-a-member-form:hover {
+    background-color: #094CDB;
+    box-shadow: 5px 5px 10px 5px #023299;
 }
 
 .category-buttons-long a:hover, .category-buttons a:hover, .category-last-buttons a:hover {
