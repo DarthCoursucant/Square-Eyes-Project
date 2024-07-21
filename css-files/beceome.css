@@ -6,11 +6,12 @@
   }
 
 .become-a-member-form, .checkoutform {
-    background-color: #c1eabc;
     width: 750px;
     height: 750px;
     border-radius: 1em;
-    box-shadow: 0px 0px 10px 10px #626592;
+    background-color: #2E7702;
+    box-shadow: 2px 2px 10px 5px #4FC009;
+    color: #ffffff;
   }
 
 .become-a-member-form {
@@ -46,8 +47,8 @@ input {
 }
 
 .formbutton {
-    background-color: #094CDB;
-    box-shadow: 5px 5px 10px 5px #023299;
+    background-color: #c7caff;
+    box-shadow: 5px 5px 10px 5px #ffffff;
     float: auto;
     cursor: pointer;
     border-radius: 15px;
