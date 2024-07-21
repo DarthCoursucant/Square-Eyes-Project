@@ -75,6 +75,6 @@
     margin-right: 20px;
 }
 
-#page-headline:hover {
+#page-headline:hover, .partnerships-info:hover {
     box-shadow: 5px 5px 10px 10px #ffffff;
 }
