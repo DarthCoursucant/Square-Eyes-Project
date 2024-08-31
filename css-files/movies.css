@@ -119,3 +119,19 @@
     font-size: 30px;
     margin-top: -20px;
 }
+
+.end-of-category-message {
+    width: 1000px;
+    background-color: #9aabef;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+}
+
+#end-message-text {
+    text-align: center;
+}
+
+#end-message-text a, #end-message-text b {
+    text-decoration: none;
+    color: red;
+}
