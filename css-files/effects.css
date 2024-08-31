@@ -39,7 +39,7 @@
     box-shadow: 0px 0px 10px 10px #818181;
 }
 
-.hero-text-about-page-one h1:hover, .hero-text-about-page-one p:hover, .hero-image-text-contact a:hover, #end-message-text a:hover {
+.hero-text-about-page-one h1:hover, .hero-text-about-page-one p:hover, .hero-image-text-contact a:hover, .end-message-text a:hover {
     color: #fafabe;
 }
 
