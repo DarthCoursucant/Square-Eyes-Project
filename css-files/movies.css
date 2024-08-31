@@ -125,13 +125,21 @@
     background-color: #9aabef;
     border-radius: 20px;
     border: 2px solid #ffffff;
+    margin-left: 250px;
+    margin-bottom: 100px;
 }
 
-#end-message-text {
+.end-message-text {
     text-align: center;
+    color: #000000;
+    padding: 0px 50px 0px 50px;
 }
 
-#end-message-text a, #end-message-text b {
+.end-message-text a, .end-message-text b {
     text-decoration: none;
     color: red;
+}
+
+.end-message-text p {
+    font-size: 30px;
 }
