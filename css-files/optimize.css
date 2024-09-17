@@ -1,32 +1,50 @@
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
-    .hero-image-four {
-      width: 1100px;
-      margin-left: 50px;
-      height: 200px;
-    }
-    
-    .hero-text-four h1 {
-      font-size: 30px;
-    }
-    
-    .hero-text-four p {
-      font-size: 20px;
-    }
-    
-    .become-button {
-      margin-left: 360px;
-    }
-    
-    .category-buttons-long {
-        width: 200px;
-      }
-      
-      .category-buttons {
-        width: 150px;
-      }
-      
-      #movie-action, #movie-drama, #movie-noir {
-        margin-left: 15px;
-      }
+  .hero-image-four {
+    width: 1100px;
   }
+  
+  .hero-text-four {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .become-button {
+    margin-left: 330px;
+  }
+  
+  .category-buttons-long {
+    margin-left: 30px;
+  }
+  
+#movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 30px;
+  width: 140px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    margin-left: 15px;
+    width: 200px;
+  }
+  
+  .hero-image-one, .hero-image-two {
+    width: 550px;
+  }
+  
+  .hero-text-one p, .hero-text-two p {
+    font-size: 25px;
+  }
+  
+  .hero-button {
+    margin-left: 180px;
+  }
+
+  #footer-info-box p {
+    margin-left: 10px;
+  }
+  
+  #popular-now-footer a, #about-square-eyes-footer a, #behind-the-scense-footer a, #custumer-service-fotter a {
+    margin-left: 50px;
+  }
+ 
+}
