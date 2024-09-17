@@ -119,4 +119,23 @@
   #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     width: 150px;
   }
+
+  .flex-hero-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-image-one {
+    margin-left: 50px;
+  }
+  
+  .hero-image-two {
+    margin-left: 60px;
+  }
+  
+  .hero-image-three {
+    margin-left: 50px;
+    width: 500px;
+    margin-top: 50px;
+  }
 }
