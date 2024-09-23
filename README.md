@@ -22,5 +22,7 @@
 ![Menu](media/read-me-images/two-desktop.png)
 ### Contact Page On Desktop / Laptop
 ![Contact Page](media/read-me-images/three-desktop.jpg)
-### About Pae On Desktop / Laptop
+### About Page On Desktop / Laptop
 ![Abour Page](media/read-me-images/four-desktop.jpg)
+### Top Sellers Page On Desktop / Laptop
+![Top Sellers Page](media/read-me-images/five-desktop.jpg)
