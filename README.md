@@ -19,4 +19,4 @@
 ### Home Page On Desktop / Laptop
 ![Home Page](media/read-me-images/one-desktop.jpg)
 ### Home Page On Desktop / Laptop
-![Home Page](media/read-me-images/two-desktop.jpg)
+![Home Page](media/read-me-images/two-desktop.png)
