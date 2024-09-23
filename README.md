@@ -16,4 +16,4 @@
 - Is A DVD selling company fully based on the internett. It offers you a "membership" option where you get discounts on your purchases and you get discounts for movie viewings in theaters and events like Comicon.
 
 ## How Does Sqaure Eyes Look Like For Desktop / Laptop Size Devices ?
-![Alt text](media/read-me-images/one-desktop.jpg)
+![Home Page](media/read-me-images/one-desktop.jpg)
