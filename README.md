@@ -1,14 +1,15 @@
 # Square-Eyes-Project
-- Created With = 
+- Created With
     - HTML 
     - CSS  
     - JavaScript
     - Figma 
     - Github 
     - Github Pages
-- Pictures / Icon From = 
+- Pictures / Icon / Fonts From 
     - Icon8
     - Unsplash
+    - Google Fonts
 
 ## What Is Sqaure Eyes Project ? 
 - Sqaure Eyes Project is a project assingnemnt I had in my first semester at Noroff Bergen.
