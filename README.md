@@ -6,10 +6,11 @@
     - Figma 
     - Github 
     - Github Pages
-- Pictures / Icon / Fonts From 
+- Pictures / Icon / Fonts / Content From 
     - Icon8
     - Unsplash
     - Google Fonts
+    - ChatGPT
 
 ## What Is Sqaure Eyes Project ? 
 - Sqaure Eyes Project is a project assingnemnt I had in my first semester at Noroff Bergen.
