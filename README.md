@@ -20,5 +20,7 @@
 ![Home Page](media/read-me-images/one-desktop.jpg)
 ### Menu On Desktop / Laptop
 ![Menu](media/read-me-images/two-desktop.png)
-### Menu On Desktop / Laptop
-![Home Page](media/read-me-images/three-desktop.jpg)
+### Contact Page On Desktop / Laptop
+![Contact Page](media/read-me-images/three-desktop.jpg)
+### About Pae On Desktop / Laptop
+![Abour Page](media/read-me-images/four-desktop.jpg)
