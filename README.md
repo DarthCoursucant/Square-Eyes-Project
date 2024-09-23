@@ -18,5 +18,7 @@
 ## How Does Sqaure Eyes Look Like For Desktop / Laptop Size Devices ?
 ### Home Page On Desktop / Laptop
 ![Home Page](media/read-me-images/one-desktop.jpg)
-### Home Page On Desktop / Laptop
-![Home Page](media/read-me-images/two-desktop.png)
+### Menu On Desktop / Laptop
+![Menu](media/read-me-images/two-desktop.png)
+### Menu On Desktop / Laptop
+![Home Page](media/read-me-images/three-desktop.jpg)
