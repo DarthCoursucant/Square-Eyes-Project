@@ -54,6 +54,20 @@
   .hero-image-about-page-four h1 {
     padding: 0px 20px 0px 20px;
   }
+
+  .box-one h2, .box-two h2, .box-three h2 {
+    font-size: 20px;
+  }
+  
+  .box-one li {
+    font-size: 15px;
+    margin-left: -40px;
+  }
+  
+  .box-two p, .box-two a, .box-three a {
+    font-size: 15px;
+    padding: 0px 20px 0px 20px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -119,6 +133,18 @@
 
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     margin-left: 80px;
+  }
+
+  .box-one, .box-two, .box-three {
+    width: 300px;
+  }
+  
+  .box-one h2, .box-one li {
+    padding: 0px 30px 0px 30px;
+  }
+  
+  .box-two a, .box-three a {
+    margin-left: -15px;
   }
 }
 
@@ -239,6 +265,15 @@
   .hero-text-about-page-one p {
     font-size: 20px;
   }
+
+  .become-boxes-flex {
+    display: block;
+    margin-left: 230px;
+  }
+  
+  .box-one, .box-two, .box-three {
+    width: 500px;
+  }
 }
 
 /*MAX WITH 1000PX*/
@@ -268,6 +303,15 @@
   .flex-hero-container {
     margin-left: -20px;
   }
+
+  .become-a-member-form {
+    width: 700px;
+  }
+  
+  label {
+    width: 200px;
+    font-size: 20px;
+}
 }
 
 /*MAX WITH 920PX*/
@@ -325,6 +369,10 @@
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     width: 700px;
   }
+
+  .become-boxes-flex {
+    margin-left: 150px;
+  }
 }
 
 /*MAX WITH 850PX*/
@@ -362,6 +410,23 @@
   
   .hero-text-about-page-one p {
     font-size: 15px;
+  }
+
+  .become-a-member-form {
+    width: 600px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .formbutton {
+    width: 200px;
+    margin-left: 150px;
+  }
+  
+  .become-boxes-flex {
+    margin-left: 120px;
   }
 }
 
@@ -401,6 +466,32 @@
   .hero-text-two p, .hero-text-one p {
     padding-top: 20px;
     padding-bottom: 20px;
+  }
+
+  .become-boxes-flex {
+    margin-left: 100px;
+  }
+
+  .become-a-member-form {
+    width: 550px;
+  }
+  
+  .become-a-member-form h1 {
+    font-size: 30px;
+  }
+  
+  label {
+    font-size: 15px;
+    width: 150px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .formbutton {
+    margin-top: -20px;
+    margin-left: 130px;
   }
 }
 
@@ -449,6 +540,31 @@
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     width: 500px;
   }
+
+  .box-one, .box-two, .box-three {
+    width: 300px;
+  }
+  
+  .box-one h2, .box-two h2, .box-three h2 {
+    font-size: 18px;
+  }
+  
+  .box-two h2, .box-three h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .box-one {
+    height: 300px;
+  }
+  
+  .box-two {
+    height: 200px;
+  }
+  
+  .box-three {
+    height: 150px;
+  }
 }
 
 /*MAX WITH 650PX*/
@@ -480,6 +596,18 @@
 
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     margin-left: 50px;
+  }
+
+  .become-a-member-form {
+    width: 450px;
+  }
+  
+  input {
+    width: 200px;
+  }
+  
+  .formbutton {
+    margin-left: 60px;
   }
 }
 
@@ -528,5 +656,9 @@
   
   #about-square-eyes-footer {
     display: none;
+  }
+
+  .become-boxes-flex {
+    margin-left: 80px;
   }
 }
