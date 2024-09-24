@@ -46,6 +46,14 @@
   #popular-now-footer a, #about-square-eyes-footer a, #behind-the-scense-footer a, #custumer-service-fotter a {
     margin-left: 50px;
   }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 1000px;
+  }
+  
+  .hero-image-about-page-four h1 {
+    padding: 0px 20px 0px 20px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -108,6 +116,10 @@
     margin-left: 50px;
     font-size: 15px;
   }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    margin-left: 80px;
+  }
 }
 
 /*MAX WITH 1150PX*/
@@ -141,6 +153,10 @@
     margin-left: 50px;
     width: 500px;
     margin-top: 50px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 900px;
   }
 }
 
