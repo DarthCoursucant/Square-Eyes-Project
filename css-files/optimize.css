@@ -446,6 +446,9 @@
     margin-left: 40px;
   }
   
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 500px;
+  }
 }
 
 /*MAX WITH 650PX*/
@@ -474,6 +477,10 @@
   #popular-now-footer h1, #about-square-eyes-footer h1, #behind-the-scense-footer h1, #custumer-service-fotter h1 {
     font-size: 15px;
   }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 600PX*/
@@ -501,6 +508,10 @@
 
   .location-header {
     margin-left: 80px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 400px;
   }
 }
 
