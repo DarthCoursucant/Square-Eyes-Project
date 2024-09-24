@@ -280,3 +280,63 @@
     margin-left: 120px;
   }
 }
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+  .hero-image-four {
+    width: 600px;
+    margin-left: 100px;
+  }
+  
+  .become-button {
+    width: 200px;
+    height: 50px;
+    margin-left: 170px;
+  }
+  
+  .become-button a {
+    font-size: 15px;
+  }
+  
+  .category-buttons-long {
+    width: 150px;
+  }
+  
+ #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 110px;
+  }
+}
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 30px;
+  }
+  
+  .hero-image-four {
+    width: 500px;
+    margin-left: 130px;
+  }
+  
+  .become-button {
+    margin-left: 120px;
+  }
+  
+  #footer-info-box {
+    display: none;
+  }
+  
+  #popular-now-footer {
+    margin-left: -15px;
+    margin-bottom: 50px;
+  }
+  
+  .hero-text-one h1, .hero-text-two h1 {
+    font-size: 30px;
+  }
+  
+  .hero-text-two p, .hero-text-one p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
