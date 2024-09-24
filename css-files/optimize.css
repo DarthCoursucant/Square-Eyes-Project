@@ -248,6 +248,16 @@
 
 /*MAX WITH 920PX*/
 @media (max-width: 920px) {
+
+  .location-header img, #sale-icon-header img, #map-icon-header img, #contact-icon-header img {
+    width: 40px;
+    height: 40px;
+  }
+
+  #sale-icon-header, #header-centre, #map-icon-header, #contact-icon-header {
+    margin-left: 30px;
+  }
+
   .location-header {
     margin-left: 150px;
   }
@@ -358,7 +368,7 @@
 @media (max-width: 700px) {
   
   .location-header {
-    margin-left: 30px;
+    margin-left: 130px;
   }
 
   .location-header img, #sale-icon-header img, #map-icon-header img, #contact-icon-header img {
@@ -372,6 +382,10 @@
 
   #contact-icon-header img {
     margin-top: 25px;
+  }
+
+  #sale-icon-header, #header-centre, #map-icon-header, #contact-icon-header {
+    margin-left: 20px;
   }
 
   #header-centre img {
