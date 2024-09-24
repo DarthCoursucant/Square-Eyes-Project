@@ -197,3 +197,18 @@
     margin-left: 40px;
   }
 }
+
+/*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 12px;
+  }
+  
+  .category-buttons-long {
+    margin-left: 20px;
+  }
+
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 140px;
+  }
+}
