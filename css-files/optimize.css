@@ -435,3 +435,27 @@
     font-size: 15px;
   }
 }
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+  .category-buttons-long {
+    display: none;
+  }
+  
+  .hero-image-four {
+    width: 450px;
+    margin-left: 50px;
+  }
+  
+  .hero-text-four h1 {
+    font-size: 25px;
+  }
+  
+  .hero-text-four p, .become-button a {
+    font-size: 15px;
+  }
+  
+  .become-button {
+    margin-left: 100px;
+  }
+}
