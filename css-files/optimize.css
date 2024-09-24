@@ -168,7 +168,7 @@
   }
   
   #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
-  width: 120px;
+    width: 120px;
     margin-left: 20px;
   }
   
@@ -210,5 +210,34 @@
 
   #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     width: 140px;
+  }
+}
+
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+  .hero-image-four {
+    width: 750px;
+    margin-left: 100px;
+  }
+  
+  .become-button {
+    margin-left: 130px;
+  }
+  
+  .category-buttons-long {
+    width: 200px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    width: 100px;
+    margin-left: 20px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 130px;
+  }
+  
+  .flex-hero-container {
+    margin-left: -20px;
   }
 }
