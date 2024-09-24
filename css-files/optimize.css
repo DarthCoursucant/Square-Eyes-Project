@@ -458,6 +458,10 @@
   .become-button {
     margin-left: 100px;
   }
+
+  .location-header {
+    margin-left: 80px;
+  }
 }
 
 /*MAX WITH 550PX*/
