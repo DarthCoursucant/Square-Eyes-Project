@@ -231,6 +231,14 @@
   #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     width: 140px;
   }
+
+  .hero-text-about-page-one h1 {
+    font-size: 30px;
+  }
+  
+  .hero-text-about-page-one p {
+    font-size: 20px;
+  }
 }
 
 /*MAX WITH 1000PX*/
@@ -313,6 +321,10 @@
     margin-top: 30px;
     margin-left: 120px;
   }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 700px;
+  }
 }
 
 /*MAX WITH 850PX*/
@@ -338,6 +350,18 @@
   
  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     width: 110px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 600px;
+  }
+  
+  .hero-text-about-page-one h1 {
+    font-size: 20px;
+  }
+  
+  .hero-text-about-page-one p {
+    font-size: 15px;
   }
 }
 
