@@ -68,6 +68,15 @@
     font-size: 15px;
     padding: 0px 20px 0px 20px;
   }
+
+  .hero-image-carrer {
+    width: 1000px;
+    margin-left: 100px;
+  }
+  
+  #carrer-button {
+    margin-left: 250px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -145,6 +154,10 @@
   
   .box-two a, .box-three a {
     margin-left: -15px;
+  }
+
+  .hero-image-carrer {
+    margin-left: 60px;
   }
 }
 
@@ -242,6 +255,15 @@
   #custumer-service-fotter a {
     margin-left: 40px;
   }
+
+  .hero-image-carrer {
+    width: 800px;
+    margin-left: 80px;
+  }
+  
+  #carrer-button {
+    margin-left: 150px;
+  }
 }
 
 /*MAX WITH 1050PX*/
@@ -311,6 +333,15 @@
   label {
     width: 200px;
     font-size: 20px;
+  }
+
+.hero-image-carrer {
+  width: 700px;
+}
+
+#carrer-button {
+  margin-top: -5px;
+  margin-left: 110px;
 }
 }
 
@@ -427,6 +458,29 @@
   
   .become-boxes-flex {
     margin-left: 120px;
+  }
+
+  .hero-image-carrer {
+    width: 600px;
+  }
+  
+  #hero-text h1 {
+    font-size: 25px;
+  }
+  
+  #hero-text p {
+    font-size: 15px;
+  }
+  
+  #carrer-button a {
+    font-size: 20px;
+  }
+  
+  #carrer-button {
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 350px;
+    height: 50px;
   }
 }
 
@@ -565,6 +619,14 @@
   .box-three {
     height: 150px;
   }
+
+  .hero-image-carrer {
+    width: 500px;
+  }
+  
+  #carrer-button {
+    margin-left: 80px;
+  }
 }
 
 /*MAX WITH 650PX*/
@@ -609,6 +671,23 @@
   .formbutton {
     margin-left: 60px;
   }
+
+  .hero-image-carrer {
+    width: 450px;
+  }
+  
+  #hero-text h1 {
+    font-size: 20px;
+  }
+  
+  #carrer-button a {
+    font-size: 15px;
+  }
+  
+  #carrer-button {
+    width: 220px;
+    margin-left: 110px;
+  }
 }
 
 /*MAX WITH 600PX*/
@@ -641,6 +720,10 @@
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     width: 400px;
   }
+
+  .hero-image-carrer {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 550PX*/
@@ -660,5 +743,9 @@
 
   .become-boxes-flex {
     margin-left: 80px;
+  }
+
+  .hero-image-carrer {
+    margin-left: 30px;
   }
 }
