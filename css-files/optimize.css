@@ -241,3 +241,42 @@
     margin-left: -20px;
   }
 }
+
+/*MAX WITH 920PX*/
+@media (max-width: 920px) {
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 10px;
+  }
+  
+  .category-buttons-long {
+    width: 170px;
+  }
+  
+  #movies-classics a, #movies-must-watch a, #movies-book-adaptations a, #movies-on-documentary a, #movie-sci-fi a, #movie-thriller a, #movie-true-crime a, #movie-western a, #movies-ww-two a, #movie-young-adult a, #movie-action a, #movie-adventure a, #movies-animated a, #movie-biography a, #movie-kids a, #movie-comedy a, #movie-drama a, #movie-fantasy a, #movie-history a, #movie-horror a, #movie-indie a, #movie-mystery a, #movie-noir a, #movie-romance a {
+    font-size: 15px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 120px;
+  }
+  
+  .hero-image-four {
+    width: 700px;
+    margin-left: 100px;
+  }
+  
+  .hero-text-four h1 {
+    font-size: 30px;
+    padding-top: 20px;
+  }
+  
+  .hero-text-four p {
+    font-size: 20px;
+    padding: 20px 40px 0px 40px;
+  }
+  
+  .become-button {
+    margin-top: 30px;
+    margin-left: 120px;
+  }
+}
