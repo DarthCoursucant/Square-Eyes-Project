@@ -321,7 +321,7 @@
   .location-header {
     margin-left: 100px;
   }
-  
+
   #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
     margin-left: 30px;
   }
@@ -352,4 +352,44 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+}
+
+/*MAX WITH 700PX*/
+@media (max-width: 700px) {
+  
+  .location-header {
+    margin-left: 30px;
+  }
+
+  .location-header img, #sale-icon-header img, #map-icon-header img, #contact-icon-header img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .location-header img, #sale-icon-header img, #map-icon-header img {
+    margin-top: 20px;
+  }
+
+  #contact-icon-header img {
+    margin-top: 25px;
+  }
+
+  #header-centre img {
+    width: 120px;
+    height: 75px;
+    margin-top: 20px;
+}
+  
+  .hero-image-four {
+    margin-left: 100px;
+  }
+  
+  .category-buttons-long {
+    width: 140px;
+  }
+  
+  #about-square-eyes-footer a {
+    margin-left: 40px;
+  }
+  
 }
