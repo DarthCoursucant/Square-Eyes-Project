@@ -1,4 +1,6 @@
 # Square-Eyes-Project
+[GitHub Pages Link](https://darthcoursucant.github.io/Square-Eyes-Project/)
+
 - Created With
     - HTML 
     - CSS  
@@ -15,8 +17,6 @@
 ## What Is Sqaure Eyes Project ? 
 - Sqaure Eyes Project is a project assingnemnt I had in my first semester at Noroff Bergen.
 - Is A DVD selling company fully based on the internett. It offers you a "membership" option where you get discounts on your purchases and you get discounts for movie viewings in theaters and events like Comicon.
-
-[GitHub Pages Link](https://darthcoursucant.github.io/Square-Eyes-Project/)
 
 ## How Does Sqaure Eyes Look Like For Desktop / Laptop Size Devices ?
 ### Home Page On Desktop / Laptop
