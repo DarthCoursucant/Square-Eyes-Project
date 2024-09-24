@@ -459,3 +459,19 @@
     margin-left: 100px;
   }
 }
+
+/*MAX WITH 550PX*/
+@media (max-width: 550px) {
+  .hero-image-one, .hero-image-two, .hero-image-three {
+     width: 450px;
+     margin-left: 50px;
+  }
+  
+  .hero-button {
+    margin-left: 120px;
+  }
+  
+  #about-square-eyes-footer {
+    display: none;
+  }
+}
