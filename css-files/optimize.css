@@ -50,6 +50,10 @@
 
 /*MAX WITH 1200PX*/
 @media (max-width: 1200px) {
+
+  .location-header {
+    margin-left: 200px;
+  }
   
   .hero-image-four {
     width: 1000px;
@@ -244,6 +248,10 @@
 
 /*MAX WITH 920PX*/
 @media (max-width: 920px) {
+  .location-header {
+    margin-left: 150px;
+  }
+  
   #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
     margin-left: 10px;
   }
@@ -309,6 +317,11 @@
 
 /*MAX WITH 800PX*/
 @media (max-width: 800px) {
+
+  .location-header {
+    margin-left: 100px;
+  }
+  
   #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
     margin-left: 30px;
   }
