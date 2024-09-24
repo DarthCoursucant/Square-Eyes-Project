@@ -77,6 +77,10 @@
   #carrer-button {
     margin-left: 250px;
   }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 1000px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -158,6 +162,10 @@
 
   .hero-image-carrer {
     margin-left: 60px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 900px;
   }
 }
 
@@ -296,6 +304,18 @@
   .box-one, .box-two, .box-three {
     width: 500px;
   }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 800px;
+  }
+  
+  .hero-image-text-contact h1 {
+    font-size: 30px;
+  }
+  
+  .hero-image-text-contact p, .hero-image-text-contact a {
+    font-size: 20px;
+  }
 }
 
 /*MAX WITH 1000PX*/
@@ -342,6 +362,10 @@
 #carrer-button {
   margin-top: -5px;
   margin-left: 110px;
+}
+
+.hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+  width: 700px;
 }
 }
 
@@ -403,6 +427,10 @@
 
   .become-boxes-flex {
     margin-left: 150px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 600px;
   }
 }
 
@@ -547,6 +575,10 @@
     margin-top: -20px;
     margin-left: 130px;
   }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 500px;
+  }
 }
 
 /*MAX WITH 700PX*/
@@ -688,6 +720,11 @@
     width: 220px;
     margin-left: 110px;
   }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 450px;
+    margin-left: 70px;
+  }
 }
 
 /*MAX WITH 600PX*/
@@ -722,6 +759,11 @@
   }
 
   .hero-image-carrer {
+    margin-left: 50px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 400px;
     margin-left: 50px;
   }
 }
