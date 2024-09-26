@@ -1021,6 +1021,14 @@
   .flex-container-investor {
     margin-left: 0px;
   }
+
+  #page-headline {
+    margin-left: 100px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 100px;
+  }
 }
 
 /*MAX WITH 550PX*/
@@ -1048,5 +1056,23 @@
 
   .hero-image-investors {
     margin-left: 30px;
+  }
+
+  #page-headline {
+    margin-left: 60px;
+  }
+  
+  #page-headline h1 {
+    font-size: 20px;
+  }
+  
+  #page-headline p {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 60px;
   }
 }
