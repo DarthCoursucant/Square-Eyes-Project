@@ -6,8 +6,7 @@
     - CSS  
     - JavaScript
     - Figma 
-    - Github 
-    - Github Pages
+    - Github & Github Pages
 - Pictures / Icon / Fonts / Content From 
     - Icon8
     - Unsplash
