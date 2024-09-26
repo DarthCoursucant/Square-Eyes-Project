@@ -89,6 +89,19 @@
   .text {
     width: 1000px;
   }
+
+  .hero-image-investors {
+    width: 1000px;
+    margin-left: 120px;
+  }
+  
+  #box-container-one h1, #box-container-two h1, #box-container-three h1 {
+    font-size: 20px;
+  }
+  
+  #box-container-one p, #box-container-two p, #box-container-three p {
+    font-size: 15px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -188,6 +201,15 @@
     font-size: 30px;
     margin-left: -100px;
   }
+
+  .flex-container-investor {
+    display: block;
+    margin-left: 250px;
+  }
+  
+  #box-container-one, #box-container-two {
+    margin-bottom: 50px;
+  }
 }
 
 /*MAX WITH 1150PX*/
@@ -225,6 +247,18 @@
 
   .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
     width: 900px;
+  }
+
+  .hero-image-investors {
+    width: 900px;
+  }
+  
+  #hero-text h1 {
+    font-size: 30px;
+  }
+  
+  #hero-text p {
+    font-size: 20px;
   }
 }
 
@@ -346,6 +380,18 @@
   .hero-image-text-contact p, .hero-image-text-contact a {
     font-size: 20px;
   }
+
+  .hero-image-investors {
+    width: 800px;
+  }
+  
+  #hero-text h1 {
+    font-size: 25px;
+  }
+  
+  #hero-text p {
+    font-size: 17px;
+  }
 }
 
 /*MAX WITH 1000PX*/
@@ -405,6 +451,10 @@
   .text {
     width: 700px;
     text-align: center;
+  }
+
+  .hero-image-investors {
+    margin-left: 50px;
   }
 }
 
@@ -471,6 +521,10 @@
   .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
     width: 600px;
   }
+
+  .flex-container-investor {
+    margin-left: 150px;
+  }
 }
 
 /*MAX WITH 900PX*/
@@ -481,6 +535,10 @@
   
   .text {
     width: 600px;
+  }
+
+  .hero-image-investors {
+    width: 700px;
   }
 }
 
@@ -637,6 +695,29 @@
   .text {
     width: 500px;
   }
+
+  .hero-image-investors {
+    width: 650px;
+  }
+  
+  #hero-text h1 {
+    padding: 0px 20px 0px 20px;
+  }
+  
+  #hero-text p {
+    padding-bottom: 20px;
+  }
+  
+  .flex-container-investor {
+    margin-left: 100px;
+  }
+}
+
+/*MAX WITH 740PX*/
+@media (max-width: 740px) {
+  .hero-image-investors {
+    width: 550px;
+  }
 }
 
 /*MAX WITH 700PX*/
@@ -726,6 +807,10 @@
     width: 400px;
     font-size: 15px;
   }
+
+  .flex-container-investor {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 650PX*/
@@ -792,6 +877,10 @@
     width: 450px;
     margin-left: 70px;
   }
+
+  .hero-image-investors {
+    width: 500px;
+  }
 }
 
 /*MAX WITH 600PX*/
@@ -846,6 +935,14 @@
     font-size: 25px;
     margin-left: -20px;
   }
+
+  .hero-image-investors {
+    width: 450px;
+  }
+
+  .flex-container-investor {
+    margin-left: 0px;
+  }
 }
 
 /*MAX WITH 550PX*/
@@ -868,6 +965,10 @@
   }
 
   .hero-image-carrer {
+    margin-left: 30px;
+  }
+
+  .hero-image-investors {
     margin-left: 30px;
   }
 }
