@@ -81,6 +81,14 @@
   .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
     width: 1000px;
   }
+
+  .collapsible {
+    width: 1100px;
+  }
+  
+  .text {
+    width: 1000px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -114,7 +122,7 @@
     font-size: 18px;
   }
   
-   #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     margin-left: 22px;
     width: 165px;
   }
@@ -166,6 +174,19 @@
 
   .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
     width: 900px;
+  }
+
+  .collapsible {
+    width: 1000px;
+  }
+  
+  .text {
+    width: 900px;
+  }
+  
+  .collaps-container-one h1, .collaps-container-two h1, .collaps-container-three h1 {
+    font-size: 30px;
+    margin-left: -100px;
   }
 }
 
@@ -272,6 +293,15 @@
   #carrer-button {
     margin-left: 150px;
   }
+
+  .collapsible {
+    width: 900px;
+  }
+  
+  .text {
+    width: 800px;
+    font-size: 17px;
+  }
 }
 
 /*MAX WITH 1050PX*/
@@ -355,18 +385,27 @@
     font-size: 20px;
   }
 
-.hero-image-carrer {
-  width: 700px;
-}
+  .hero-image-carrer {
+    width: 700px;
+  }
 
-#carrer-button {
-  margin-top: -5px;
-  margin-left: 110px;
-}
+  #carrer-button {
+    margin-top: -5px;
+    margin-left: 110px;
+  }
 
-.hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
-  width: 700px;
-}
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 700px;
+  }
+
+  .collapsible {
+    width: 800px;
+  }
+  
+  .text {
+    width: 700px;
+    text-align: center;
+  }
 }
 
 /*MAX WITH 920PX*/
@@ -434,6 +473,17 @@
   }
 }
 
+/*MAX WITH 900PX*/
+@media (max-width: 900px) {
+  .collapsible {
+    width: 700px;
+  }
+  
+  .text {
+    width: 600px;
+  }
+}
+
 /*MAX WITH 850PX*/
 @media (max-width: 850px) {
   .hero-image-four {
@@ -455,7 +505,7 @@
     width: 150px;
   }
   
- #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
     width: 110px;
   }
 
@@ -579,6 +629,14 @@
   .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
     width: 500px;
   }
+
+  .collapsible {
+    width: 600px;
+  }
+  
+  .text {
+    width: 500px;
+  }
 }
 
 /*MAX WITH 700PX*/
@@ -609,7 +667,7 @@
     width: 120px;
     height: 75px;
     margin-top: 20px;
-}
+  }
   
   .hero-image-four {
     margin-left: 100px;
@@ -658,6 +716,15 @@
   
   #carrer-button {
     margin-left: 80px;
+  }
+
+  .collapsible {
+    width: 500px;
+  }
+  
+  .text {
+    width: 400px;
+    font-size: 15px;
   }
 }
 
@@ -765,6 +832,19 @@
   .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
     width: 400px;
     margin-left: 50px;
+  }
+
+  .collapsible {
+    width: 450px;
+  }
+  
+  .text {
+    width: 360px;
+  }
+  
+  .collaps-container-one h1, .collaps-container-two h1, .collaps-container-three h1 {
+    font-size: 25px;
+    margin-left: -20px;
   }
 }
 
