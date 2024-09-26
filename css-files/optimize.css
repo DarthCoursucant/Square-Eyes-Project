@@ -102,6 +102,22 @@
   #box-container-one p, #box-container-two p, #box-container-three p {
     font-size: 15px;
   }
+
+  #page-headline {
+    margin-left: 300px;
+  }
+  
+  #page-headline h1 {
+    font-size: 30px;
+  }
+  
+  #page-headline p {
+    font-size: 25px;
+  }
+  
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -210,6 +226,14 @@
   #box-container-one, #box-container-two {
     margin-bottom: 50px;
   }
+
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: -10px;
+  }
+  
+  #page-headline {
+    margin-left: 250px;
+  }
 }
 
 /*MAX WITH 1150PX*/
@@ -259,6 +283,10 @@
   
   #hero-text p {
     font-size: 20px;
+  }
+
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: -15px;
   }
 }
 
@@ -336,6 +364,19 @@
     width: 800px;
     font-size: 17px;
   }
+
+  #page-headline {
+    width: 500px;
+    margin-left: 300px;
+  }
+  
+  #page-headline h1 {
+    font-size: 25px;
+  }
+  
+  #page-headline p {
+    font-size: 20px;
+  }
 }
 
 /*MAX WITH 1050PX*/
@@ -391,6 +432,18 @@
   
   #hero-text p {
     font-size: 17px;
+  }
+
+  .movie-poster-one {
+    margin-left: 10px;
+  }
+  
+  .movie-poster-four, .movie-poster-teen, .movie-poster-sixteen {
+    margin-left: 15px;
+  }
+  
+  .movie-poster-seven, .movie-poster-thirteen {
+    margin-left: 20px;
   }
 }
 
@@ -455,6 +508,11 @@
 
   .hero-image-investors {
     margin-left: 50px;
+  }
+
+  #page-headline {
+    width: 400px;
+    margin-left: 220px;
   }
 }
 
@@ -711,12 +769,24 @@
   .flex-container-investor {
     margin-left: 100px;
   }
+
+  .movie-poster-three, .movie-poster-five, .movie-poster-seven, .movie-poster-nine, .movie-poster-eleven, .movie-poster-thirteen, .movie-poster-fifteen {
+    margin-left: 10px;
+  }
 }
 
 /*MAX WITH 740PX*/
 @media (max-width: 740px) {
   .hero-image-investors {
     width: 550px;
+  }
+
+  #page-headline {
+    margin-left: 170px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 150px;
   }
 }
 
@@ -880,6 +950,14 @@
 
   .hero-image-investors {
     width: 500px;
+  }
+
+  #page-headline {
+    margin-left: 130px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 120px;
   }
 }
 
