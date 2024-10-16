@@ -48,6 +48,7 @@ function handleSubmit(event) {
   document.getElementById('myForm').reset();
 }
 
+/* ADD TO CART AND THIS DISPLAY IT ON CART PAGE */
 function addToCart(product) {
   // Retrieve the current cart from localStorage or initialize it as an empty array
   let cart = JSON.parse(localStorage.getItem('cart')) || [];
