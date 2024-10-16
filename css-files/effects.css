@@ -55,12 +55,12 @@
     background-color: #023299;
   }
 
-#poster-button:hover {
-    box-shadow: 5px 5px 5px 5px #BB3331;
+#poster-price:hover {
+    color: #AD00FF;
   }
 
-#poster-price:hover p {
-    color: #AD00FF;
+#poster-button button:hover {
+    background-color: #AD00FF;
   }
 
 #poster-info-text h1:hover, #poster-info-text p:hover {
