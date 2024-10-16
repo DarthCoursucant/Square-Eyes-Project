@@ -47,3 +47,40 @@ function handleSubmit(event) {
   // Clear the form fields
   document.getElementById('myForm').reset();
 }
+
+function addToCart(product) {
+  // Retrieve the current cart from localStorage or initialize it as an empty array
+  let cart = JSON.parse(localStorage.getItem('cart')) || [];
+  // Add the new product to the cart
+  cart.push(product);
+  // Save the updated cart back to localStorage
+  localStorage.setItem('cart', JSON.stringify(cart));
+  alert(product + ' has been added to the cart.');
+}
+
+function displayCart() {
+  // Retrieve the cart from localStorage
+  let cart = JSON.parse(localStorage.getItem('cart')) || [];
+  let cartList = document.getElementById('cart-list');
+  
+  // Clear the list before displaying updated items
+  cartList.innerHTML = '';
+
+  // Add each product to the list
+  cart.forEach(product => {
+      let listItem = document.createElement('li');
+      listItem.textContent = product;
+      cartList.appendChild(listItem);
+  });
+}
+
+function clearCart() {
+  // Clear the cart in localStorage
+  localStorage.removeItem('cart');
+  // Refresh the displayed list
+  displayCart();
+  alert('Cart cleared.');
+}
+
+// Call displayCart when the page loads
+window.onload = displayCart;
