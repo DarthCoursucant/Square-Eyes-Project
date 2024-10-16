@@ -38,6 +38,10 @@ function addToCart(product) {
 }
 
 /* BUTTON ON BECOME A MEMBER PAGE */
-function showAlert() {
+function handleSubmit(event) {
+  event.preventDefault(); // Prevent the default form submission
+  // Show an alert
   alert('The Membership Form Delivery Was Succesful. In A Short Tinme You Will Recive A E-mail Fron Us At Square Eyes With A Confirmation That Your Account Was Succcefully Created.');
-} 
+  // Clear the form fields
+  document.getElementById('myForm').reset();
+}
