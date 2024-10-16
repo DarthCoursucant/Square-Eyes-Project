@@ -103,7 +103,7 @@
 <!-- CONTENT CODE-->
 <main class="page-body">
 
-    <form class="become-a-member-form">
+    <form class="become-a-member-form" id="myForm" onsubmit="handleSubmit(event)">
         <h1>Become A Member Today</h1>
         <ul>
             <li>
@@ -141,8 +141,8 @@
                 <input type="password-two" is="password-two" name="password-two">
             </li>
             <br>
-            <li class="formbutton">
-                <button type="submit">Submit</button>
+            <li>
+                <button class="formbutton" type="submit">Submit</button>
             </li>
         </ul>
     </form>
