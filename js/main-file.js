@@ -122,3 +122,29 @@ function clearCart() {
 
 // Call displayCart when the page loads
 window.onload = displayCart;
+
+function displayCart() {
+  let cart = JSON.parse(localStorage.getItem('cart')) || [];
+  let cartList = document.getElementById('cart-list');
+  let totalPriceElement = document.getElementById('total-price');
+  let totalPrice = 0;
+
+  cartList.innerHTML = ''; // Clear the list before displaying updated items
+
+  cart.forEach(item => {
+      let listItem = document.createElement('li');
+      listItem.textContent = `${item.name} • $${item.price}`;
+      cartList.appendChild(listItem);
+      totalPrice += item.price; // Add the item's price to the total
+  });
+
+  totalPriceElement.textContent = `Total Price: $${totalPrice}`; // Update total price display
+}
+
+function clearCart() {
+  localStorage.removeItem('cart'); // Clear the cart in localStorage
+  displayCart(); // Refresh the displayed list
+  alert('Cart cleared.');
+}
+
+window.onload = displayCart; // Call displayCart when the page loads
