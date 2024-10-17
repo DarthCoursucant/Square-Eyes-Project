@@ -118,6 +118,10 @@
   .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
     margin-left: 50px;
   }
+
+  .items-lists, .purchase-form {
+    margin-left: 100px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -233,6 +237,15 @@
   
   #page-headline {
     margin-left: 250px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 400px;
+  }
+  
+  .purchase-form h1 {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -377,6 +390,22 @@
   #page-headline p {
     font-size: 20px;
   }
+
+  .items-lists, .purchase-form {
+    margin-left: 80px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .items-lists button {
+    margin-left: 100px;
+  }
+  
+  button {
+    margin-left: -20px;
+  }
 }
 
 /*MAX WITH 1050PX*/
@@ -444,6 +473,26 @@
   
   .movie-poster-seven, .movie-poster-thirteen {
     margin-left: 20px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 350px;
+  }
+  
+  input {
+    width: 250px;
+  }
+  
+  .purchase-form h1, .items-lists h1 {
+    font-size: 25px;
+  }
+  
+  button {
+    margin-left: -40px;
+  }
+  
+  .items-lists button {
+    margin-left: 70px;
   }
 }
 
@@ -583,6 +632,10 @@
   .flex-container-investor {
     margin-left: 150px;
   }
+
+  .items-lists, .purchase-form {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 900PX*/
@@ -597,6 +650,10 @@
 
   .hero-image-investors {
     width: 700px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 300px;
   }
 }
 
@@ -675,6 +732,15 @@
     margin-left: 130px;
     width: 350px;
     height: 50px;
+  }
+
+  input {
+    width: 200px;
+  }
+  
+  .items-lists button, button {
+    width: 150px;
+    font-size: 20px;
   }
 }
 
@@ -773,6 +839,10 @@
   .movie-poster-three, .movie-poster-five, .movie-poster-seven, .movie-poster-nine, .movie-poster-eleven, .movie-poster-thirteen, .movie-poster-fifteen {
     margin-left: 10px;
   }
+
+  input {
+    width: 200px;
+  }
 }
 
 /*MAX WITH 740PX*/
@@ -787,6 +857,11 @@
   
   .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
     margin-left: 150px;
+  }
+
+  .cart-page-container-thing {
+    flex-direction: column;
+    align-items:center;
   }
 }
 
