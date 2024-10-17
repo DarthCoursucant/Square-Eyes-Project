@@ -122,6 +122,10 @@
   .items-lists, .purchase-form {
     margin-left: 100px;
   }
+
+  .succesful-cart-conatiner {
+    margin-left: 300px;
+  }
 }
 
 /*MAX WITH 1200PX*/
@@ -246,6 +250,10 @@
   .purchase-form h1 {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 200px;
   }
 }
 
@@ -494,6 +502,10 @@
   .items-lists button {
     margin-left: 70px;
   }
+
+  .succesful-cart-conatiner {
+    margin-left: 120px;
+  }
 }
 
 /*MAX WITH 1000PX*/
@@ -636,6 +648,10 @@
   .items-lists, .purchase-form {
     margin-left: 50px;
   }
+
+  .succesful-cart-conatiner {
+    width: 600px;
+  }
 }
 
 /*MAX WITH 900PX*/
@@ -741,6 +757,10 @@
   .items-lists button, button {
     width: 150px;
     font-size: 20px;
+  }
+
+  .succesful-cart-conatiner {
+    width: 550px;
   }
 }
 
@@ -863,6 +883,18 @@
     flex-direction: column;
     align-items:center;
   }
+
+  .succesful-cart-conatiner {
+    width: 450px;
+  }
+  
+  .succesful-cart-conatiner h1 {
+    font-size: 25px;
+  }
+  
+  .succesful-cart-conatiner p {
+    font-size: 18px;
+  }
 }
 
 /*MAX WITH 700PX*/
@@ -955,6 +987,10 @@
 
   .flex-container-investor {
     margin-left: 50px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 80px;
   }
 }
 
@@ -1104,6 +1140,10 @@
   .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
     margin-left: 100px;
   }
+
+  .succesful-cart-conatiner {
+    width: 400px;
+  }
 }
 
 /*MAX WITH 550PX*/
@@ -1149,5 +1189,9 @@
   
   .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
     margin-left: 60px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 50px;
   }
 }
