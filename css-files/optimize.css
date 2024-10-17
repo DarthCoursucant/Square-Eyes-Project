@@ -307,7 +307,7 @@
   }
 
   .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
-    margin-left: -15px;
+    margin-left: 10px;
   }
 }
 
@@ -414,6 +414,14 @@
   button {
     margin-left: -20px;
   }
+
+  .movie-poster-one, .movie-poster-three, .movie-poster-five, .movie-poster-seven, .movie-poster-nine, .movie-poster-eleven, .movie-poster-thirteen, .movie-poster-fifteen {
+    margin-left: 40px;
+  }
+  
+  #poster-button {
+    margin-left: 50px;
+  }
 }
 
 /*MAX WITH 1050PX*/
@@ -505,6 +513,14 @@
 
   .succesful-cart-conatiner {
     margin-left: 120px;
+  }
+
+  .movie-poster-one, .movie-poster-seven, .movie-poster-thirteen {
+    margin-left: 40px;
+  }
+  
+  #poster-button {
+    margin-left: 80px;
   }
 }
 
@@ -762,6 +778,10 @@
   .succesful-cart-conatiner {
     width: 550px;
   }
+
+  #poster-button {
+    margin-left: 60px;
+  }
 }
 
 /*MAX WITH 800PX*/
@@ -862,6 +882,10 @@
 
   input {
     width: 200px;
+  }
+
+  .movie-poster-one {
+    margin-left: 10px;
   }
 }
 
