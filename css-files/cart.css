@@ -1,5 +1,7 @@
 .cart-page-container-thing {
     display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .items-lists {
@@ -16,6 +18,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    border: 2px solid #ffffff;
 }
 
 .items-lists h1, .items-lists ul, .items-lists p, .purchase-form h1, .purchase-form li {
@@ -27,10 +30,48 @@
     text-align: center;
 }
 
+.items-lists ul, .purchase-form li, .items-lists p {
+    font-size: 25px;
+}
+
+.items-lists ul, .items-lists p {
+    text-align: center;
+}
+
 .items-lists {
     width: 450px;
 }
 
 .purchase-form {
     width: 650px;
+}
+
+.items-lists {
+    margin-left: 50px;
+}
+
+.purchase-form {
+    margin-left: 200px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    border: 2px solid #094CDB;
+}
+
+.items-lists button {
+    margin-left: 110px;
+}
+
+.purchase-button {
+    margin-left: 150px;
+}
+
+.purchase-button a {
+    text-decoration: none;
+    color: #000000;
 }
