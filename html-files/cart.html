@@ -109,7 +109,7 @@
             <button onclick="clearCart()">Clear Cart</button>
         </div>
         <!-- FILL OUT FORM TO PURCHASE-->
-        <form class="purchase-form" id="purchase" onsubmit="handleSubmit(event)">
+        <form class="purchase-form" id="purchase">
             <h1>Fill Out Your Information And Pay Now</h1>
             <ul>
                 <li>
@@ -157,11 +157,9 @@
                     <input type="cvc" id="short-input" name="cvc">
                 </li>
                 <br>
-                <li>
-                    <button class="purchase-button" type="submit">
-                        <a href="./succesful-pages/sucessful-cart.html">Pay Now</a>
-                    </button>
-                </li>
+                <button class="purchase-button" type="submit">
+                    <a href="./succesful-pages/sucessful-cart.html">Pay Now</a>
+                </button>
             </ul>
         </form>
     </article>
