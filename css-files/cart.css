@@ -6,7 +6,11 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1700830960459-90d4dd355b7b?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
 }
 
-.items-lists {
+.purchase-form {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=3259&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+.items-lists, .purchase-form {
     border-radius: 20px;
     background-position: center;
     background-repeat: no-repeat;
@@ -14,6 +18,6 @@
     position: relative;
 }
 
-.items-lists h1, .items-lists ul, .items-lists p {
+.items-lists h1, .items-lists ul, .items-lists p, .purchase-form h1, .purchase-form li {
     color: #ffffff;
 }
