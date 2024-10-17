@@ -29,9 +29,3 @@
 ![Abour Page](media/read-me-images/four-desktop.jpg)
 ### Top Sellers Page On Desktop / Laptop
 ![Top Sellers Page](media/read-me-images/five-desktop.jpg)
-
-Pages Not Optizmez
-- cart 
--on sale
-- succesful membersbip
-- Trade DVDs
