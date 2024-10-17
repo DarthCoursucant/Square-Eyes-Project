@@ -21,3 +21,16 @@
 .items-lists h1, .items-lists ul, .items-lists p, .purchase-form h1, .purchase-form li {
     color: #ffffff;
 }
+
+.items-lists h1, .purchase-form h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.items-lists {
+    width: 450px;
+}
+
+.purchase-form {
+    width: 650px;
+}
