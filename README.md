@@ -32,4 +32,10 @@
 ### Home Page On Phone
 ![Home Page](media/read-me-images/one-phone.jpg)
 ### New Arrrivals Page On Phone
-![New Arrrivals](media/read-me-images/two-phone.jpg)
+![New Arrrivals Page](media/read-me-images/two-phone.jpg)
+### Cart Page On Phone
+![Cart Page](media/read-me-images/three-phone.jpg)
+### FAQ Page On Phone
+![FAQ Page](media/read-me-images/four-phone.jpg)
+### Carrer Page On Phone
+![Carrer Page](media/read-me-images/five-phone.jpg)
