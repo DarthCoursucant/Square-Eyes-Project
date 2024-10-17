@@ -782,6 +782,14 @@
   #poster-button {
     margin-left: 60px;
   }
+
+  #trade-text h1 {
+    font-size: 25px;
+  }
+  
+  #trade-text p {
+    font-size: 15px;
+  }
 }
 
 /*MAX WITH 800PX*/
@@ -1093,6 +1101,10 @@
   
   .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
     margin-left: 120px;
+  }
+
+  #trade-text h1 {
+    font-size: 20px;
   }
 }
 
