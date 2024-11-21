@@ -30,6 +30,8 @@
 ![Abour Page](media/read-me-images/four-desktop.jpg)
 ### Top Sellers Page On Desktop / Laptop
 ![Top Sellers Page](media/read-me-images/five-desktop.jpg)
+
+## How Does Sqaure Eyes Look Like For Phone size Devices ?
 ### Home Page On Phone
 ![Home Page](media/read-me-images/one-phone.jpg)
 ### New Arrrivals Page On Phone
