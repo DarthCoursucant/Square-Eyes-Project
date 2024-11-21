@@ -1,14 +1,15 @@
 # Square-Eyes-Project
 [GitHub Pages Link](https://darthcoursucant.github.io/Square-Eyes-Project/)
 
-- Created With
+## Created With
     - HTML 
     - CSS  
     - JavaScript
     - Figma 
     - VS Code
     - Github & Github Pages
-- Pictures / Icon / Fonts / Content From 
+
+## Pictures / Icon / Fonts / Content From 
     - Icon8
     - Unsplash
     - Google Fonts
